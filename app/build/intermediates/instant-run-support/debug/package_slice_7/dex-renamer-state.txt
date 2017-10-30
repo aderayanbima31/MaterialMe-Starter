@@ -1,0 +1,4 @@
+#Fri Oct 27 12:51:46 ICT 2017
+base.0=C\:\\Users\\adera\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+renamed.0=classes.dex
+file.0=C\:\\Users\\adera\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7\\classes.dex

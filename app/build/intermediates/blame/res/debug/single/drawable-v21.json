@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\adera\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\adera\\.android\\build-cache\\b75e872c1e5c6ff239d13a5732789ebf66fcf4ad\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\adera\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\adera\\.android\\build-cache\\b75e872c1e5c6ff239d13a5732789ebf66fcf4ad\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\adera\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\adera\\.android\\build-cache\\b75e872c1e5c6ff239d13a5732789ebf66fcf4ad\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\adera\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\adera\\.android\\build-cache\\b75e872c1e5c6ff239d13a5732789ebf66fcf4ad\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

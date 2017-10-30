@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\adera\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="C:\Users\adera\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\pre-dexed\debug\glide-3.5.2_cba13d7ef00d49f2ad4348c1a07c11508cb922e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adera\.android\build-cache\c5ac1b4089e09c3a6bb455dd57dadf47cfee6488\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\adera\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\pre-dexed\debug\classes_163a583e6bc72677e41881635e8bdffccef20851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adera\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\adera\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_4a393bfb4ab39230f766a88758dca548c12113c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adera\.android\build-cache\e6193b4ba9de22e1bc780aeb47aaaf64b9b67c96\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\adera\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\pre-dexed\debug\classes_d14b4ed5287159bb3527c734090122d631385cff.jar" />
+    </item>
+
+</items>
